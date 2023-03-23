@@ -1,2 +1,2 @@
 # Java
-These Programs Are fro Multithreading.
+These Programs Are for Multithreading.
